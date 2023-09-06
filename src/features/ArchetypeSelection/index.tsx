@@ -73,7 +73,7 @@ export const ArchetypeSelection = () => {
             </Flicking>
             <BottomNav>
                 <Button fullWidth>
-                    Found my learner type!
+                    This is me! Let's go!
                 </Button>
             </BottomNav>
         </>
